@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://cuoo.ml</id>
     <title>Luolix的小站</title>
-    <updated>2020-04-17T02:41:17.695Z</updated>
+    <updated>2020-04-17T03:07:04.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://cuoo.ml"/>
     <link rel="self" href="http://cuoo.ml/atom.xml"/>
@@ -10,13 +10,16 @@
     <icon>http://cuoo.ml/favicon.ico</icon>
     <rights>All rights reserved 2020, Luolix的小站</rights>
     <entry>
-        <title type="html"><![CDATA[test]]></title>
+        <title type="html"><![CDATA[Epic免费喜+2《正当防卫4》]]></title>
         <id>http://cuoo.ml/post/test/</id>
         <link href="http://cuoo.ml/post/test/">
         </link>
         <updated>2020-04-17T02:12:21.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/luolixman/tc/2020/04/17/bf8966.png" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<p><img src="https://www.x6d.com/uploads/allimg/200416/1587049275817260.jpg" alt="" loading="lazy"><br>
+4月17日补充最新一期</p>
+<p>领取时间：4月16日至4月23日</p>
+<p>《正当防卫4》http://t.cn/A6wMmCgn</p>
+<p>《奥瑞利亚纪行》http://t.cn/A6wSMCPc</p>
 ]]></content>
     </entry>
 </feed>
